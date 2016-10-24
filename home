@@ -1,0 +1,53 @@
+<!Doctype html>
+<html>
+<head>
+<title>Learning Management System</title>
+</head>
+<body bgcolor="gray">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="800" >
+    <tr> <th height="100" bgcolor="cyan" colspan="2"><h1>Lerning management System</h1> </th> </tr>
+<!-- Next is the 2nd row with two columns -->
+<!--This is column one-->
+
+<tr>
+<th width="200" height="600" bgcolor="lightgray"> Here are my webpages:
+<ul>
+<li><a href="index.html"> HOME </a> </li>
+<li><a href="portfolio.html"> PORTFOLIO</a>
+</li> <li><a href="about_me.html"> ABOUT ME</a> </li>
+<li><a href="contact.html">CONTACT</a></li>
+</ul> </th>
+<!--This is the 2nd column-->
+<th width="600" height="600" bgcolor="darkgray">
+Welcome to my Portfolio. Here you will find Photoshop and Illustrator Projects!
+<br><br>
+                                         <table align="center" width="450" height="450" border="1" cellspacing="1" cellpadding="1"                                                                                                     bgcolor="lightgray">
+                                            <tr height="50">
+                                            <th>Photoshop </th>
+                                            <th>Illustrator </th>
+                                            </tr>
+
+                                            <tr>
+                                             <td><img src="Your Photo Goes Here.jpg" width="200">Photo 1 </td>
+                                               <td><img src="Your Photo Goes Here.jpg" width="200">Photo 2 </td>
+                                             </tr>
+
+                                             <tr>
+                                             <td><img src="" width="200">Photo 3</td>
+                                                <td><img src="" width="200">Photo 4</td>
+                                             </tr>
+
+                                            </table>
+</th>
+</tr>
+
+
+<!-- This is the last row. This is where the footer goes -->
+<tr>
+<th height="100" bgcolor="lightgreen" colspan="2">
+Copyright &copy; 2014 DUDE JONES' All rights reserved.
+</th>
+</tr>
+</table>
+</body>
+</html>
